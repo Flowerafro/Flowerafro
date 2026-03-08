@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 # About Me:
-☕ 💻 Working on: Bachelors degree on cloud migration strategy<br>🤝💡  Collaborate on: Web development or digital design projects<br>🌱🎓  Learning: Digital transformation <br>🚀⚡  Fun fact: 10 years as a festival and event project manager before tech 
+☕ 💻 Working on: Bachelors degree on cloud migration strategy<br>
+🤝💡  Collaborate on: Web development or digital design projects<br>
+🌱🎓  Learning: Digital transformation, IT strategy and Digital illustration & visual storytelling<br>
+🚀⚡  Fun fact: 10 years as a festival and event project manager before tech 
 
 
 ## Socials:
@@ -10,6 +13,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/inline-design) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inlinedesign.no) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/line-henriksen-542a44290) 
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-%2305CC47.svg?logo=deviantart&logoColor=white)](https://www.deviantart.com/fl0werafr0)
 [![Adobe Portfolio](https://img.shields.io/badge/Adobe%20Portfolio-%23FF0000.svg?logo=adobe&logoColor=white)](https://linehenriksen0.myportfolio.com/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/inlinedesign-no)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/flowerafr0)
 
 # Tech Stack:
