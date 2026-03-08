@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there
 
 # About Me:
 ☕ 💻 Working on: Bachelors degree on cloud migration strategy<br>
-🤝💡  Collaborate on: Web development or digital design projects<br>
-🌱🎓  Learning: Digital transformation, IT strategy and Digital illustration & visual storytelling<br>
-🚀⚡  Fun fact: 10 years as a festival and event project manager before tech 
+🤝💡 Collaborate on: Web development or digital design projects<br>
+🌱🎓 Learning: Digital transformation, IT strategy and Digital illustration & visual storytelling<br>
+🚀⚡ Fun fact: 10 years as a festival and event project manager before tech 
 
 
 ## Socials:
