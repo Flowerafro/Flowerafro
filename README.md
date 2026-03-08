@@ -5,6 +5,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://inlinedesign.no)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/inline-design) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inlinedesign.no) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/line-henriksen-542a44290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:linehenriksen0@gmail.com) 
 
 # 💻 Tech Stack:
